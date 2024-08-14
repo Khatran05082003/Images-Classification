@@ -1,0 +1,10 @@
+pandas
+streamlit
+transformers
+scipy
+nltk
+tqdm
+opencv-python-headless
+tensorflow
+keras
+matplotlib

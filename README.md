@@ -103,6 +103,11 @@ This is a web application for image classification. You can upload an image of a
 
 - If you encounter issues with uploading or image processing, ensure that the image format is supported and try refreshing the page.
 
+## Demo
+
+![image](https://github.com/user-attachments/assets/b63a95d0-e1bc-4168-bfbb-d18f16608687)
+
+
 ## Note
 
 Please be aware that the model used for classification is trained with a limited number of images. As a result, the accuracy of the classification might not always be perfect. The model may occasionally produce incorrect or unexpected results due to the constraints in its training data. If you find that the classification is not as accurate as expected, it may be due to the model's limited exposure to diverse examples during training. We appreciate your understanding and encourage you to provide feedback if you encounter any issues with the classification results.
